@@ -1,8 +1,10 @@
 # SecurePass 🔒
 
+Welcome to SecurePass! Your go-to solution for generating strong and secure passwords.
+
 ![SecurePass Banner](https://my-portfolio-alpha-woad.vercel.app/assets/images/passwd.png)
 
-Welcome to SecurePass! Your go-to solution for generating strong and secure passwords.
+
 
 ## Introduction
 
@@ -20,7 +22,7 @@ SecurePass is built using modern web technologies, including:
 
 ## Installation
 
-To use SecurePass, simply visit the website at [https://www.your-website-url.com](https://password-generator-website-bay.vercel.app/).
+To use SecurePass, simply visit the website at [https://password-generator-website-bay.vercel.app/](https://password-generator-website-bay.vercel.app/).
 
 ## Contributing
 
